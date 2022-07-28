@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class MyConstant {
-  static Color primary = Color.fromARGB(255, 145, 193, 14); //สีของบาร์
+  static Color primary = Color.fromARGB(255, 165, 221, 11); //สีของบาร์
   static Color dark = Color.fromARGB(255, 10, 10, 10); //สีของตัวอักษร
-  static Color light = Color.fromARGB(255, 110, 185, 19); //สีของตัวที่ไฮไลท์
+  static Color light = Color.fromARGB(255, 63, 223, 132); //สีของตัวที่ไฮไลท์
   static Color active = Color.fromARGB(255, 185, 32, 185); //สีของตัวสิ่งที่คลิกได้
   static Color white = Colors.white; //สีของบนปุ่ม
 
