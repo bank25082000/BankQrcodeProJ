@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893889744733",
+    "project_id": "bankqrcodeproj",
+    "storage_bucket": "bankqrcodeproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893889744733:android:75fe2b35295e91430fa2b4",
+        "android_client_info": {
+          "package_name": "com.bank.bankqrcodeproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893889744733-2osa25p00t6gth7bjqhehbe952co34fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUYZk5wjWlO8KmLdZ1-MSOl3-we1S0w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893889744733-2osa25p00t6gth7bjqhehbe952co34fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
